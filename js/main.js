@@ -79,8 +79,11 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Ray Wang.", "A Software Engineer.", "A Data Scientist.", "A Problem Solver"],
-      typeSpeed: 100,
+      strings: ["Hi. My Name is Ray Wang.",
+       "I am A Software Engineer and Data Scientist.", 
+       "Who always stays active in his life and embrace all kinds of opportunities.",
+       "Thank you for visiting my page.", "I look forward to connect with you for more opportunities."],
+      typeSpeed: 120,
       loop: true,
     });
   });
