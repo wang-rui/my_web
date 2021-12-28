@@ -84,12 +84,10 @@ p {
 
 ::-moz-selection {
   background: #b8a07e;
-  color: #fff;
 }
 
 ::selection {
   background: #b8a07e;
-  color: #fff;
 }
 
 .btn {
@@ -252,17 +250,17 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color: #FFF;
 }
 
 .header-content p {
-  font-size: 13px;
+  font-size: 20px;
   letter-spacing: 5px;
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
-  font-weight: 500;
+  color: #FFF;
+  font-weight: 700;
 }
 
 .header-content .list-social li {
@@ -271,8 +269,8 @@ nav ul li a {
 }
 
 .header-content .list-social li i {
-  color: #fff;
-  font-size: 15px;
+  color:#FFF;
+  font-size: 25px;
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -282,7 +280,6 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
   padding-top: 190px;
 }
 
@@ -301,7 +298,7 @@ nav ul li a {
 }
 
 #about .about-descr .p-heading {
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 28px;
   text-align: left;
 }
