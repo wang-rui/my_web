@@ -81,8 +81,8 @@ $(document).ready(function() {
     typed.typed({
       strings: ["Hi. My Name is Ray Wang.",
        "I am A Software Engineer and Data Scientist.", 
-       "Who always stays active in his life and embrace all kinds of opportunities.",
-       "Thank you for visiting my page.", "I look forward to connect with you for more opportunities."],
+       "Who always stays active in his life and embraces all types of opportunities.",
+       "Thank you for visiting my page.", "I look forward to connect with you for more possibilities."],
       typeSpeed: 120,
       loop: true,
     });
